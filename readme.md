@@ -1,1 +1,1 @@
-# Currently, I'm studying Computer Information Systems at [Edmonds College](https://www.Edmonds.edu) #
+# Currently studying Computer Information Systems at [Edmonds College](https://www.Edmonds.edu) #
