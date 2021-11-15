@@ -5,12 +5,18 @@
 * HTML
 * CSS
 * JavaScript
+* PHP
+* jQuery
 * Database theory and design
 * MySQL
 * SQL
-* PHP
 * Systems Analysis and Design
 * Graphic Design
 
-##I have experience with the following software tools:##
-*
+## I have experience with the following software tools: ##
+* VS Code
+* Note++
+* Visio
+* Visual Studio
+* PhotoShop
+* InDesign
