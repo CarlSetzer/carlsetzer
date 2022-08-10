@@ -1,6 +1,8 @@
+#Currently studying Enterprise Architecture at Edmonds College #
+
 # Recently finished my ATA degree in Web Application and Cloud Development at [Edmonds College](https://www.Edmonds.edu) #
 
-## This includes: ##
+## This included: ##
 
 * HTML
 * CSS
