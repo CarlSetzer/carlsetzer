@@ -1,4 +1,4 @@
-# Currently studying Web Application and Cloud Development at [Edmonds College](https://www.Edmonds.edu) #
+# Recently finished my ATA degree in Web Application and Cloud Development at [Edmonds College](https://www.Edmonds.edu) #
 
 ## This includes: ##
 
