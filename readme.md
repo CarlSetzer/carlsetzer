@@ -18,6 +18,8 @@
 * Requirements Analysis
 * Database Theory and Design
 
+# I also took a few classes in Cisco Networking#
+
 
 ## I have experience with the following software tools: ##
 * VS Code
