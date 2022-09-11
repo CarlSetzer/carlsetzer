@@ -30,4 +30,4 @@
 * InDesign
 
 
-##I'm currently working on a contract until the end of 2022 and am starting the process of looking for my next role. With my background, I brind solid value as a systems analyst or project coordinator ##
+## I'm currently working on a contract until the end of 2022 and am starting the process of looking for my next role. With my background, I brind solid value as a systems analyst or project coordinator ##
