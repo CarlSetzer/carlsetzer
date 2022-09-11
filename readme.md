@@ -18,7 +18,7 @@
 * Requirements Analysis
 * Database Theory and Design
 
-# I also took a few classes in Cisco Networking#
+# I also took a few classes in Cisco Networking #
 
 
 ## I have experience with the following software tools: ##
@@ -28,3 +28,6 @@
 * Visual Studio
 * PhotoShop
 * InDesign
+
+
+##I'm currently working on a contract until the end of 2022 and am starting the process of looking for my next role. With my background, I brind solid value as a systems analyst or project coordinator ##
