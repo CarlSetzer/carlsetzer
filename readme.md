@@ -13,12 +13,12 @@
 * Systems Analysis and Design
 * Graphic Design
 
-# I also studied Enterprise Architecture. Thus, I've earned some certifications. #
+# This summer I studied Enterprise Architecture. This some additional certifications. #
 * Business Systems Analysis
 * Requirements Analysis
 * Database Theory and Design
 
-## I also took a few classes in Cisco Networking ##
+## I also took some classes in Cisco Networking ##
 
 
 ## I have experience with the following software tools: ##
@@ -28,6 +28,8 @@
 * Visual Studio
 * PhotoShop
 * InDesign
+
+## I am doing some Udemy classes to sharpen my web dev skills. You can follow that journey <a href="https://carlsetzer.github.io/" target="_blank">here</a>. ##
 
 
 ## I'm currently working on a contract until the end of 2022 and am starting the process of looking for my next role. With my background, I bring solid value as a systems analyst or project coordinator ##
