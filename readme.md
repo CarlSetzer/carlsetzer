@@ -1,6 +1,6 @@
-# I'm currently working on a contract until the end of 2022. Thus, I am starting the process of looking for my next role. Besides web development, I am also a talented  systems analyst and project coordinator #
-
-# I have an ATA degree in Web Application and Cloud Development from [Edmonds College](https://www.Edmonds.edu) #
+# Web Application Developer out of Seattle #
+## I have an ATA degree in Web Application and Cloud Development from [Edmonds College](https://www.Edmonds.edu) ##
+## Besides web development, I've studied systems analyis and project coordinator ##
 
 ## Coursework included: ##
 
@@ -15,7 +15,8 @@
 * Systems Analysis and Design
 * Graphic Design
 
-# I added a class in Enterprise Architecture. This gives me some additional certifications. #
+# Enterprise Architecture #
+## This gives me some additional certifications. ##
 * Business Systems Analysis
 * Requirements Analysis
 * Database Theory and Design
