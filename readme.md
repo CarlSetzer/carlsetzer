@@ -1,4 +1,4 @@
-# Web Application Developer out of Seattle #
+# Web Developer out of Seattle #
 ## I have an ATA degree in Web Application and Cloud Development from [Edmonds College](https://www.Edmonds.edu) ##
 ## Besides web development, I've studied systems analyis and project coordinator ##
 
