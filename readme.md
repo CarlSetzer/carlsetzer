@@ -1,6 +1,6 @@
 # Seattle Based Web Developer #
 ## I have an ATA degree in Web Application and Cloud Development from [Edmonds College](https://www.Edmonds.edu) ##
-## Besides web development, I've studied systems analyis and project coordinator ##
+## Besides web development, I've studied systems analysis and project coordinator ##
 
 ## Coursework included: ##
 
