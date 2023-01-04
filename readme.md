@@ -1,6 +1,5 @@
 # Seattle Based Web Developer #
-## I have an ATA degree in Web Application and Cloud Development from [Edmonds College](https://www.Edmonds.edu) ##
-## Besides web development, I've studied systems analysis and project coordinator ##
+## I have an ATA degree in Web Application and Cloud Development and have certificates in Business Systems Analysis, Requirements Analysis, Database Theory & Design from [Edmonds College](https://www.Edmonds.edu). I also hold the CIW Site Development Associate, and the MTA Windows Operating System Fundamentals and Introduction to Programming Using HTML & CSS.  ##
 
 ## Coursework included: ##
 
@@ -16,7 +15,6 @@
 * Graphic Design
 
 # Enterprise Architecture #
-## This gives me some additional certifications. ##
 * Business Systems Analysis
 * Requirements Analysis
 * Database Theory and Design
