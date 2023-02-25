@@ -8,7 +8,7 @@
 * MTA Certificate in Windows Operating System Fundamentals 
 * MTA Certificate Introduction to Programming Using HTML & CSS. 
 
-## Coursework included: ##
+## My Tech Stack Includes: ##
 
 * HTML
 * CSS
@@ -21,14 +21,13 @@
 * Systems Analysis and Design
 * Graphic Design
 
-# Enterprise Architecture #
+# Tech Skills #
 * Business Systems Analysis
 * Requirements Analysis
 * Database Theory and Design
+* I also took several classes in Cisco Networking
 
-## I also took several classes in Cisco Networking ##
-
-## I am doing some Udemy classes to sharpen my web dev skills. You can follow that journey <a href="https://carlsetzer.github.io/" target="_blank">here</a>. ##
+## I am doing some Udemy classes to conitnue to grow my web dev skills. You can follow that journey <a href="https://carlsetzer.github.io/" target="_blank">here</a>. ##
 
 
 
