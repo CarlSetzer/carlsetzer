@@ -5,7 +5,8 @@
 * Requirements Analysis Certificate from [Edmonds College](https://www.Edmonds.edu) 
 * Database Theory & Design from [Edmonds College](https://www.Edmonds.edu).
 * CIW Site Development Associate
-* MTA certificates in Windows Operating System Fundamentals and Introduction to Programming Using HTML & CSS.  ##
+* MTA Certificate in Windows Operating System Fundamentals 
+* MTA Certificate Introduction to Programming Using HTML & CSS. 
 
 ## Coursework included: ##
 
