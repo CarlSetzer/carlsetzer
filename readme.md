@@ -1,5 +1,5 @@
 # Web Developer #
-## My tech credentials: ##
+## My credentials: ##
 * I have an ATA degree in Web Application and Cloud Development 
 * Business Systems Analysis Certificate from [Edmonds College](https://www.Edmonds.edu)
 * Requirements Analysis Certificate from [Edmonds College](https://www.Edmonds.edu) 
