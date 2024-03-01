@@ -1,4 +1,4 @@
-# Web Developer #
+# Project Manager & Web Developer #
 ## My Credentials: ##
 * An ATA degree in Web Application and Cloud Development 
 * Business Systems Analysis Certificate from [Edmonds College](https://www.Edmonds.edu)
@@ -22,12 +22,13 @@
 * Graphic Design
 
 # Tech Skills #
+* Project Management
 * Business Systems Analysis
 * Requirements Analysis
 * Database Theory and Design
 * I also took several classes in Cisco Networking
 
-## I am doing some Udemy classes to conitnue to grow my web dev skills. You can follow that journey <a href="https://carlsetzer.github.io/" target="_blank">here</a>. ##
+## I am working on Google's Project Management Certificate via Coursera ##
 
 
 
