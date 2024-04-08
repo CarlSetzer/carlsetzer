@@ -21,7 +21,7 @@
 * Systems Analysis and Design
 * Graphic Design
 
-# Tech Skills #
+# Addtional Skills #
 * Project Management
 * Business Systems Analysis
 * Requirements Analysis
