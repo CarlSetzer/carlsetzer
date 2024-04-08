@@ -1,4 +1,4 @@
-# Project Manager & Web Developer #
+# Web Developer, Systems Analyst #
 ## My Credentials: ##
 * An ATA degree in Web Application and Cloud Development 
 * Business Systems Analysis Certificate from [Edmonds College](https://www.Edmonds.edu)
