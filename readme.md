@@ -1,6 +1,6 @@
 # Web Developer, Systems Analyst #
 ## My Credentials: ##
-* An ATA degree in Web Application and Cloud Development 
+* An ATA degree in Web Application and Cloud Development from Edmonds College
 * Business Systems Analysis Certificate from [Edmonds College](https://www.Edmonds.edu)
 * Requirements Analysis Certificate from [Edmonds College](https://www.Edmonds.edu) 
 * Database Theory & Design from [Edmonds College](https://www.Edmonds.edu).
@@ -25,10 +25,10 @@
 * Project Management
 * Business Systems Analysis
 * Requirements Analysis
-* Database Theory and Design
-* I also took several classes in Cisco Networking
+* Cisco Networking
+* Desktop Support
 
-## I am working on Google's Project Management Certificate via Coursera ##
+## I am working on Google's Project Management and IT Support Professional Certificate through Coursera ##
 
 
 
