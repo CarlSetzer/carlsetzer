@@ -28,7 +28,7 @@
 * Cisco Networking
 * Desktop Support
 
-## I am working on Google's Project Management and IT Support Professional Certificate through Coursera ##
+## I always seek to grow. Currently, I am working on more web dev knowledge by taking 50 Projects in 50 Days (Udmey), Google's Project Management and their IT Support Professional Certificate through Coursera ##
 
 
 
