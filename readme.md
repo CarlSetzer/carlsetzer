@@ -9,16 +9,15 @@
 * MTA Certificate Introduction to Programming Using HTML & CSS. 
 
 ## My Tech Stack Includes: ##
-
+* Systems Analysis and Design
+* Database theory and design
+* MySQL
+* SQL
 * HTML
 * CSS
 * JavaScript
 * PHP
 * jQuery
-* Database theory and design
-* MySQL
-* SQL
-* Systems Analysis and Design
 * Graphic Design
 
 # Addtional Skills #
@@ -27,8 +26,6 @@
 * Requirements Analysis
 * Cisco Networking
 * Desktop Support
-
-## I always seek to grow. Currently, I am working on more web dev knowledge by taking 50 Projects in 50 Days (Udmey), Google's Project Management and their IT Support Professional Certificate through Coursera ##
 
 
 
