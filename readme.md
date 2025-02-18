@@ -1,4 +1,4 @@
-# Web Developer #
+# IT Analyst & Web Developer #
 ## My Credentials: ##
 * An ATA degree in Web Application and Cloud Development from [Edmonds College](https://www.Edmonds.edu)
 * Business Systems Analysis Certificate from [Edmonds College](https://www.Edmonds.edu)
