@@ -1,5 +1,3 @@
-# IT and Data Analyst #
-
 ## Key Skills: ##
 * Database theory and design
 * Project Management
