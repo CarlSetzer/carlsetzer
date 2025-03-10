@@ -1,4 +1,6 @@
 ## Key Skills: ##
+* Cisco Networking
+* Desktop Support
 * Database theory and design
 * Project Management
 * Business Systems Analysis
@@ -11,14 +13,10 @@
 * JavaScript
 * PHP
 * jQuery
-
-# Addtional Skills #
 * Graphic Design
-* Cisco Networking
-* Desktop Support
 
 ## My Credentials: ##
-* An ATA degree in Web Application and Cloud Development from [Edmonds College](https://www.Edmonds.edu)
+ATA degree in Web Application and Cloud Development from [Edmonds College](https://www.Edmonds.edu)
 * Business Systems Analysis Certificate from [Edmonds College](https://www.Edmonds.edu)
 * Requirements Analysis Certificate from [Edmonds College](https://www.Edmonds.edu) 
 * Database Theory & Design from [Edmonds College](https://www.Edmonds.edu).
